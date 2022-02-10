@@ -1,0 +1,61 @@
+.firstTitle h1{
+    color: #ffff00;
+    font-family: 'Atma';
+    font-size: 200;
+    text-shadow: 5px 5px 5px black;
+}
+.description p{
+  font-family: 'Atma';
+}
+.sub h1{
+    color: blueviolet;
+    font-family:'Atma';
+}
+body {
+    background-color: #DBF9FC;
+    }
+  .speck:hover{
+        transform: scale(1.2);
+    }
+    .speckels:hover{
+      transform: scale(1.2);
+  }
+  .specks:hover{
+    transform: scale(1.2);
+}
+    .games{
+      display: flex;
+    flex-wrap: wrap;
+  
+    font-family: sans-serif;
+    }
+    .games img{
+      padding-left: 10px;
+  
+    }
+    .speck{
+      border-radius: 20px;
+      width:210px;
+      font-family: fantasy;
+      margin-left: 10px;
+      margin-top: 20px;
+      
+    }
+    .speckels{
+      border-radius: 20px;
+      width:210px;
+      font-family: fantasy;
+      margin-left: 300px;
+      
+    }
+    .specks{
+      border-radius: 20px;
+      width:210px;
+      font-family: fantasy;
+      margin-left: 255px;
+      margin-top: 20px;
+      
+    }
+
+
+  
